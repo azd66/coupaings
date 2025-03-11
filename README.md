@@ -21,20 +21,6 @@ Bienvenue dans Les Coupaings! Ce modpack est conçu pour vous et vos amis, offra
 
 Profitez de votre aventure avec votre modpack sur Modrinth !
 
-## Support
-
-Si vous rencontrez des problèmes lors de l'installation ou de l'exécution du modpack, n'hésitez pas à contacter notre équipe d'assistance sur notre [serveur Discord](lien_vers_le_serveur_discord). Nous sommes là pour vous aider à résoudre les problèmes et à garantir que vous puissiez profiter pleinement de votre expérience avec le modpack.
-
-Amusez-vous bien et que l'aventure commence!
-
-
-## Support
-
-Si vous rencontrez des problèmes lors de l'installation ou de l'exécution du modpack, n'hésitez pas à contacter notre équipe d'assistance sur notre [serveur Discord](https://discord.gg/SNASR5gaXb). Nous sommes là pour vous aider à résoudre les problèmes et à garantir que vous puissiez profiter pleinement de votre expérience avec le modpack.
-
-Amusez-vous bien et que l'aventure commence!
-
-
 ## Assistance
 
 Si vous rencontrez des problèmes lors de l'installation ou de l'exécution du modpack, n'hésitez pas à contacter notre équipe d'assistance sur notre [serveur Discord](https://discord.gg/SNASR5gaXb). Nous sommes là pour vous aider à résoudre les problèmes et à garantir que vous puissiez profiter pleinement du modpack.
